@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielodeveloper/b6e5cd2a951a1fd0b9564fbf1d9eea2f/raw/af436c80daf44b1edaa0766af29aaaf3749ee9fb/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielodeveloper/3b0ab020e761a6338a57eb4c42247a2e/raw/79f44839ecf3391b4880a359233178a97a4c8cfd/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielodeveloper&color=yellow" alt="Profile views" /> </p>
 
