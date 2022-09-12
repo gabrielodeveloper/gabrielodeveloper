@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielodeveloper&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Mobile Developer & focused on the best technologies.
+- 🔥 Front-end Developer & focused on the best technologies.
 
 - 🌱 I’m currently learning Javascript, Typescript, ReactJs, React Native, NodeJs.
 
