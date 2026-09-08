@@ -1,54 +1,172 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielodeveloper/3b0ab020e761a6338a57eb4c42247a2e/raw/79f44839ecf3391b4880a359233178a97a4c8cfd/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel Oliveira</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielodeveloper&color=yellow" alt="Profile views" /> </p>
+<div align="center">
 
-- 🔥 Front-end Developer & focused on the best technologies.
+👋 Olá, eu sou Gabriel Oliveira
 
-- 🌱 I’m currently learning Javascript, Typescript, ReactJs, React Native, NodeJs.
+QA Analyst → Software Developer
 
-- 📫 How to reach me: gabriel0211oliveira15@gmail.com
+C# • .NET • SQL Server • TypeScript • React
 
 
-## Technologies of my interest.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
 
-<br><br>
+🚀 Sobre mim
 
-## Contact
+Sou Analista de Testes (QA) com experiência em sistemas corporativos, integrações e bancos de dados, e estou direcionando minha carreira para desenvolvimento de software.
 
-<div> 
-  <a href="https://instagram.com/gabrieloliveirasz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel0211oliveira15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielodeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+Atualmente, meu foco é construir uma base sólida em C# e .NET, aprofundar meus conhecimentos em SQL Server e evoluir em TypeScript e React para complementar minha formação Full Stack.
+
+Minha experiência em QA também me permite olhar para o desenvolvimento com uma visão orientada a qualidade, regras de negócio, testes e confiabilidade de software.
+
+🔭 Atualmente trabalhando com QA, sistemas corporativos, integrações e SQL Server
+
+🌱 Estudando C#, .NET, SQL Server, TypeScript e React
+
+🧪 Interesse especial em automação de testes e qualidade de software
+
+🗄️ Foco em SQL Server e desenvolvimento de regras de negócio
+
+🎯 Objetivo profissional: atuar como Software Developer / .NET Developer
+
+💡 Gosto de transformar problemas de negócio em soluções simples, organizadas e testáveis
+
+🧰 Tecnologias & Ferramentas
+
+Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" title=".NET"/>
+</p>
+
+Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" title="SQL Server"/>
+</p>
+
+Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3"/>
+</p>
+
+Qualidade & Versionamento
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
+</p>
+
+📚 Atualmente estudando
+
+Área
+
+Foco
+
+C#
+
+Lógica, POO, coleções, LINQ, tratamento de exceções e boas práticas
+
+.NET
+
+Desenvolvimento de aplicações e APIs
+
+SQL Server
+
+Queries, JOINs, procedures, modelagem e regras de negócio
+
+TypeScript
+
+Tipagem, orientação a objetos e desenvolvimento moderno
+
+React
+
+Componentes, estado, consumo de APIs e interfaces
+
+QA / Automação
+
+Automação de testes como diferencial profissional
+
+🛠️ Projetos em desenvolvimento
+
+📦 Mini ERP
+
+Projeto pessoal criado para consolidar meus conhecimentos de programação e banco de dados.
+
+Objetivos do projeto:
+
+Desenvolver aplicações utilizando C# / .NET
+
+Trabalhar com SQL Server
+
+Aplicar Stored Procedures e regras de negócio
+
+Praticar CRUD, validações e consultas
+
+Evoluir posteriormente para uma arquitetura mais completa
+
+Aplicar conceitos de testes e qualidade de software
+
+O projeto será desenvolvido de forma incremental, acompanhando minha evolução nos estudos.
+
+📊 GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielodeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielodeveloper&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
-<!--
+📈 Minha evolução
 
-<br><br>
+QA / Testes
+    │
+    ├── Análise de requisitos
+    ├── Regras de negócio
+    ├── SQL Server
+    ├── Testes de sistemas
+    └── Integrações
+             │
+             ▼
+       Desenvolvimento
+             │
+             ├── C#
+             ├── .NET
+             ├── SQL Server
+             ├── TypeScript
+             └── React
+             │
+             ▼
+      Software Developer
 
+🤝 Vamos conversar?
 
+Estou sempre aberto a trocar conhecimento, colaborar em projetos e conhecer novas oportunidades na área de desenvolvimento.
 
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="mailto:gabriel0211oliveira15@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/gabrielodeveloper" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/gabrielodeveloper" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+💻 "Transformando conhecimento em código, um projeto de cada vez."
+
+</div>
