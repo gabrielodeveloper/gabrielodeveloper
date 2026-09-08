@@ -117,9 +117,8 @@ O projeto será desenvolvido de forma incremental, acompanhando minha evolução
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielodeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielodeveloper&layout=compact&langs_count=8&theme=tokyonight"/>
+
 
 </div>
 
